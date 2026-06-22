@@ -12,8 +12,8 @@ header{
 nav{
     background-color: chocolate;
     border: 16px solid hsl(206, 37%, 46%);
-    padding: 20px;
-    margin: 30px;
+    padding: 30px;
+    margin: 20px;
     color: rgb(255, 255, 255);
     background-clip: content-box;
 }
