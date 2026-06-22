@@ -4,6 +4,7 @@ header{
 }
 p.solid {
     border-style: solid;
+    padding: 40 px;
 }
 h1{
   color: aliceblue;
