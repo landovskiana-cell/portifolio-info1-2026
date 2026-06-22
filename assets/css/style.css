@@ -1,6 +1,6 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
 header{
-    background-color: #4444f5;
+    background-color: #4747cc;
     border: 13px solid lightblue;
     padding: 15px;
     background-clip: content-box;
@@ -11,7 +11,7 @@ header{
 
 nav{
     background-color: chocolate;
-    border: 8px solid hsl(206, 37%, 46%);
+    border: 15px solid hsl(206, 37%, 46%);
     padding: 22px;
     margin: 10px;
     color: rgb(255, 255, 255);
@@ -28,7 +28,7 @@ main{
 }
 section{
     background-color: rgb(255, 198, 53);
-    border: 10px solid hsl(300, 1%, 76%);
+    border: 10px solid hsl(300, 4%, 86%);
     padding: 15px;
     margin: 10px;
     color: black;
