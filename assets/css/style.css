@@ -11,7 +11,7 @@ header{
 
 nav{
     background-color: chocolate;
-    border: 5px solid hsl(206, 51%, 43%);
+    border: 5px solid hsl(206, 37%, 46%);
     padding: 22px;
     margin: 10px;
     color: rgb(255, 255, 255);
@@ -19,8 +19,8 @@ nav{
 }
 
 main{
-    background-color: rgb(255, 255, 255);
-    border: 10px solid hsl(0, 0%, 57%);
+    background-color: rgb(252, 252, 252);
+    border: 10px solid hsl(64, 41%, 87%);
     padding: 20px;
     margin: 20px;
     color: black;
@@ -28,7 +28,7 @@ main{
 }
 section{
     background-color: rgb(255, 198, 53);
-    border: 10px solid hsl(0, 3%, 73%);
+    border: 10px solid hsl(300, 1%, 76%);
     padding: 15px;
     margin: 10px;
     color: black;
