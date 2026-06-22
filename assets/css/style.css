@@ -1,7 +1,7 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
 header{
     background-color: rgb(49, 137, 252);
-    border: 10px solid lightblue;
+    border: 13px solid lightblue;
     padding: 15px;
     background-clip: content-box;
     margin: 30px;
@@ -11,7 +11,7 @@ header{
 
 nav{
     background-color: chocolate;
-    border: 5px solid hsl(206, 71%, 32%);
+    border: 5px solid hsl(206, 51%, 43%);
     padding: 22px;
     margin: 10px;
     color: black;
@@ -20,7 +20,7 @@ nav{
 
 main{
     background-color: rgb(255, 255, 255);
-    border: 10px solid hsl(192, 7%, 87%);
+    border: 10px solid hsl(204, 3%, 65%);
     padding: 20px;
     margin: 20px;
     color: black;
@@ -44,7 +44,7 @@ article{
 }
 aside{
     background-color: rgb(136, 79, 189);
-    border: 10px solid hsl(0, 2%, 91%);
+    border: 10px solid hsl(0, 1%, 73%);
     padding: 15px;
     margin: 10px;
     color: rgb(255, 255, 255);
@@ -54,8 +54,8 @@ aside{
     
 footer{
     background-color: rgb(78, 77, 77);
-    border: 3px solid hsl(180, 1%, 75%);
-    padding: 10px;
+    border: 15px solid hsl(180, 1%, 75%);
+    padding: 100px;
     margin: 20px;
     color: rgb(255, 255, 255);
     background-clip: content-box;
