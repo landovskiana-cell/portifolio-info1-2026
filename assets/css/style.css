@@ -13,7 +13,7 @@ nav{
     background-color: chocolate;
     border: 5px solid hsl(206, 51%, 43%);
     padding: 22px;
-    margin: 11px;
+    margin: 10px;
     color: rgb(255, 255, 255);
     background-clip: content-box;
 }
@@ -55,7 +55,7 @@ aside{
 footer{
     background-color: rgb(78, 77, 77);
     border: 15px solid hsl(180, 1%, 75%);
-    padding: 100px;
+    padding: 50px;
     margin: 20px;
     color: rgb(255, 255, 255);
     background-clip: content-box;
