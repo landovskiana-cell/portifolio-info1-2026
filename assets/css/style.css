@@ -1,34 +1,28 @@
-p { font-family: Arial, sans-serif; font-size: 14 px; }
+p { font-family: Arial, sans-serif; font-size: 14px; }
 header{
-       background-color: rgb(49, 137, 252);
+    background-color: rgb(49, 137, 252);
+    border: 30px solid lightblue;
+    padding: 30px;
+    margin: 30px;
+    color: aliceblue;
 }
-p.solid {
-    border-style: solid;
-    padding: 30 px;
-}
-h1{
-  color: aliceblue;
-}
+
 nav{
  background-color: chocolate;
+    border: 30px solid hsl(195, 100%, 23%);
+    padding: 30px;
+    margin: 30px;
+    color: black;
 }
-h4{
-    color: blue;
-}
+
 main{
     background-color: darkgrey;
 }
 section{
     background-color: rgb(255, 198, 53);
 }
-h2{
-    color: black;
-}
 article{
     background-color: rgb(73, 189, 131);
-}
-h2{
-    color: black;
 }
 aside{
     background-color: rgb(136, 79, 189);
