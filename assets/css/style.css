@@ -1,6 +1,6 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
 header{
-    background-color: rgb(49, 137, 252);
+    background-color: #0d0d80;
     border: 13px solid lightblue;
     padding: 15px;
     background-clip: content-box;
@@ -53,10 +53,11 @@ aside{
 
     
 footer{
-    background-color: rgb(34, 30, 65);
+    background-color: rgb(28, 24, 58);
     border: 10px solid hsl(180, 1%, 59%);
-    padding: 50px;
+    padding: 40px;
     margin: 10px;
     color: rgb(255, 255, 255);
     background-clip: content-box;
+    text-align: center;
 }
