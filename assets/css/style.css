@@ -11,7 +11,7 @@ header{
 
 nav{
     background-color: chocolate;
-    border: 5px solid hsl(206, 37%, 46%);
+    border: 8px solid hsl(206, 37%, 46%);
     padding: 22px;
     margin: 10px;
     color: rgb(255, 255, 255);
@@ -19,8 +19,8 @@ nav{
 }
 
 main{
-    background-color: rgb(196, 196, 196);
-    border: 10px solid hsl(0, 0%, 100%);
+    background-color: rgb(236, 225, 225);
+    border: 10px solid rgb(207, 203, 203);
     padding: 20px;
     margin: 20px;
     color: black;
