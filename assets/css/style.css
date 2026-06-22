@@ -13,7 +13,7 @@ nav{
     background-color: chocolate;
     border: 5px solid hsl(206, 51%, 43%);
     padding: 22px;
-    margin: 10px;
+    margin: 11px;
     color: rgb(255, 255, 255);
     background-clip: content-box;
 }
