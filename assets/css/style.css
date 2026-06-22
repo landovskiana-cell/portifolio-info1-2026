@@ -1,17 +1,17 @@
 p { font-family: Arial, sans-serif; font-size: 14px; }
 header{
     background-color: rgb(49, 137, 252);
-    border: 30px solid lightblue;
-    padding: 30px;
-    margin: 30px;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 10px;
     color: aliceblue;
 }
 
 nav{
  background-color: chocolate;
-    border: 30px solid hsl(195, 100%, 23%);
-    padding: 30px;
-    margin: 30px;
+    border: 10px solid hsl(195, 100%, 23%);
+    padding: 10px;
+    margin: 10px;
     color: black;
 }
 
