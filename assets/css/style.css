@@ -8,14 +8,14 @@ h1{
 nav{
  background-color: chocolate;
 }
-h2{
+p{
     color: blue;
 }
 main{
     background-color: darkgrey;
 }
 section{
-    background-color: rgb(236, 175, 20);
+    background-color: rgb(255, 198, 53);
 }
 h2{
     color: black;
@@ -27,13 +27,13 @@ h2{
     color: black;
 }
 aside{
-    background-color: rgb(132, 63, 197);
+    background-color: rgb(136, 79, 189);
 }
 p{
     color: aliceblue;
 }
 footer{
-    background-color: rgb(31, 29, 29);
+    background-color: rgb(54, 52, 52);
 }
 p{
     color: aliceblue;
