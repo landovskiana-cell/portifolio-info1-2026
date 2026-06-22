@@ -2,13 +2,16 @@ p { font-family: Arial, sans-serif; font-size: 14 px; }
 header{
        background-color: rgb(49, 137, 252);
 }
+p.solid {
+    border-style: solid;
+}
 h1{
   color: aliceblue;
 }
 nav{
  background-color: chocolate;
 }
-p{
+h4{
     color: blue;
 }
 main{
