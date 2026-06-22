@@ -20,7 +20,7 @@ nav{
 
 main{
     background-color: rgb(255, 255, 255);
-    border: 10px solid hsl(204, 3%, 65%);
+    border: 10px solid hsl(0, 0%, 57%);
     padding: 20px;
     margin: 20px;
     color: black;
@@ -28,7 +28,7 @@ main{
 }
 section{
     background-color: rgb(255, 198, 53);
-    border: 10px solid hsl(0, 0%, 100%);
+    border: 10px solid hsl(0, 3%, 73%);
     padding: 15px;
     margin: 10px;
     color: black;
@@ -53,8 +53,8 @@ aside{
 
     
 footer{
-    background-color: rgb(78, 77, 77);
-    border: 15px solid hsl(180, 1%, 75%);
+    background-color: rgb(34, 30, 65);
+    border: 15px solid hsl(180, 1%, 59%);
     padding: 50px;
     margin: 20px;
     color: rgb(255, 255, 255);
