@@ -2,7 +2,7 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
 header{
     background-color: rgb(49, 137, 252);
     border: 10px solid lightblue;
-    padding: 10px;
+    padding: 15px;
     background-clip: content-box;
     margin: 30px;
     color: aliceblue;
@@ -11,8 +11,8 @@ header{
 
 nav{
     background-color: chocolate;
-    border: 5px solid hsl(205, 21%, 44%);
-    padding: 5px;
+    border: 5px solid hsl(206, 49%, 56%);
+    padding: 15px;
     margin: 10px;
     color: black;
     background-clip: content-box;
@@ -20,23 +20,23 @@ nav{
 
 main{
     background-color: darkgrey;
-    border: 3px solid hsl(204, 15%, 35%);
-    padding: 5px;
-    margin: 5px;
+    border: 10px solid hsl(203, 9%, 52%);
+    padding: 20px;
+    margin: 20px;
     color: black;
     background-clip: content-box;
 }
 section{
     background-color: rgb(255, 198, 53);
-    border: 3px solid hsl(205, 11%, 31%);
-    padding: 5px;
-    margin: 5px;
+    border: 10px solid hsl(207, 7%, 70%);
+    padding: 15px;
+    margin: 10px;
     color: black;
     background-clip: content-box;
 }
 article{
-    background-color: rgb(73, 189, 131);
-    border: 3px solid hsl(204, 15%, 35%);
+    background-color: rgb(55, 160, 107);
+    border: 3px solid hsl(203, 10%, 74%);
     padding: 5px;
     margin: 5px;
     color: black;
@@ -44,24 +44,19 @@ article{
 }
 aside{
     background-color: rgb(136, 79, 189);
-    border: 3px solid hsl(204, 15%, 35%);
+    border: 3px solid hsl(0, 0%, 63%);
     padding: 5px;
     margin: 5px;
-    color: black;
+    color: rgb(255, 255, 255);
     background-clip: content-box;
 }
-p{
-    color: aliceblue;
+
     
-}
 footer{
-    background-color: rgb(54, 52, 52);
-    border: 3px solid hsl(204, 15%, 35%);
+    background-color: rgb(226, 226, 226);
+    border: 3px solid hsl(204, 9%, 66%);
     padding: 5px;
     margin: 5px;
-    color: black;
+    color: rgb(255, 255, 255);
     background-clip: content-box;
-}
-p{
-    color: aliceblue;
 }
