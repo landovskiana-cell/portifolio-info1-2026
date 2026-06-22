@@ -2,8 +2,9 @@ p { font-family: Arial, sans-serif; font-size: 14px; }
 header{
     background-color: rgb(49, 137, 252);
     border: 10px solid lightblue;
-    padding: 5px;
-    margin: 20px;
+    padding: 10px;
+    background-clip: content-box;
+    margin: 30px;
     color: aliceblue;
     background-clip: content-box;
 }
